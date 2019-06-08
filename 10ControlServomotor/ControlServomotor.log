@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -DL -O11111114 -fo20 -N"C:\Especialidad PIC\10ControlServomotor\ControlServomotor.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Especialidad PIC\10ControlServomotor\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"C:\Especialidad PIC\10ControlServomotor\" "ControlServomotor.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	ControlServomotor.c
+diagnostics: 26	123	Compiled Successfully	ControlServomotor.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)
+hint: 0	1144	Used ROM (program words): 53 (1%)  Free ROM (program words): 8139 (99%)	Used ROM (program words): 53 (1%)  Free ROM (program words): 8139 (99%)
+diagnostics: 0	125	Project Linked Successfully	ControlServomotor.mcppi
+diagnostics: 0	128	Linked in 62 ms	 
+diagnostics: 0	129	Project 'ControlServomotor.mcppi' completed: 296 ms	 
+diagnostics: 0	103	Finished successfully: 20 ago 2018, 14:26:03	ControlServomotor.mcppi

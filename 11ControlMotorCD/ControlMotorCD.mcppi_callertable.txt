@@ -1,0 +1,10 @@
+main
+	ADC_Init
+	PWM1_Init
+	PWM1_Start
+	ADC_Read
+		Delay_22us
+	Div_16x16_S
+		Div_16x16_S_L
+	PWM1_Set_Duty
+		Mul_16X16_U

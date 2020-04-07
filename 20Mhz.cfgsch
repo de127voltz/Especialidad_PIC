@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<MCU_DEVICE_FLAGS>
+  <DEVICE>
+    <DEVICE_NAME>P16F887</DEVICE_NAME>
+    <DEVICE_CLOCK>20</DEVICE_CLOCK>
+    <SETTINGS>
+      <COUNT>13</COUNT>
+      <SETTING0>
+        <NAME>Oscillator Selection</NAME>
+        <DESCRIPTION>HS oscillator: High-speed crystal/resonator on RA6/OSC2/CLKOUT and RA7/OSC1/CLKIN</DESCRIPTION>
+      </SETTING0>
+      <SETTING1>
+        <NAME>Watchdog Timer</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING1>
+      <SETTING2>
+        <NAME>Power-up Timer</NAME>
+        <DESCRIPTION>Enabled</DESCRIPTION>
+      </SETTING2>
+      <SETTING3>
+        <NAME>RE3/MCLR pin function select</NAME>
+        <DESCRIPTION>Enabled</DESCRIPTION>
+      </SETTING3>
+      <SETTING4>
+        <NAME>Code Protection</NAME>
+        <DESCRIPTION>Program memory code protection is disabled</DESCRIPTION>
+      </SETTING4>
+      <SETTING5>
+        <NAME>Data Code Protection</NAME>
+        <DESCRIPTION>Data memory code protection is disabled</DESCRIPTION>
+      </SETTING5>
+      <SETTING6>
+        <NAME>Brown Out Reset Selection</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING6>
+      <SETTING7>
+        <NAME>Internal External Switchover</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING7>
+      <SETTING8>
+        <NAME>Fail-Safe Clock Monitor</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING8>
+      <SETTING9>
+        <NAME>Low Voltage Programming</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING9>
+      <SETTING10>
+        <NAME>In-Circuit Debugger Mode</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING10>
+      <SETTING11>
+        <NAME>Brown-out Reset Selection</NAME>
+        <DESCRIPTION>Brown-out Reset set to 4.0V</DESCRIPTION>
+      </SETTING11>
+      <SETTING12>
+        <NAME>Flash Program Memory Self Write</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING12>
+    </SETTINGS>
+  </DEVICE>
+</MCU_DEVICE_FLAGS>
